@@ -10,6 +10,7 @@ I'm
   1. publish CV papers as independent researcher
   2. build a algo trading with [VnPy](https://github.com/vnpy/vnpy) and Interactive Broker (or others).
 
-[![bsun0802's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsun0802)](https://github.com/anuraghazra/github-readme-stats)
+![bsun0802's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsun0802&theme=buefy&show_icons=true)
+
 
 📫 How to reach me: my usc edu shown [here](https://bsun0802.github.io/)
