@@ -2,8 +2,8 @@
 
 I'm
 
-- 🔭 Independent Researcher
-- 🫂 Research Scientist @ Meta
+- 🔭 AI Research Scientist @ Meta
+- 🫂 Meta Reality Lab, AI Innovation Center (MRL AICC)
 - 🐿️ M.S., Ph.D @ USC
 - 🌱 currently learning Vision Transformer and Contrastive Language–Image Pre-training (CLIP). 
 - 👯 looking to collaborate on 
